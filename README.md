@@ -163,7 +163,8 @@ Example:
 
 ## Register
 
-![Register](images/register.png)
+![Register](images/register.png<img width="668" height="457" alt="Screenshot From 2026-07-18 02-45-56" src="https://github.com/user-attachments/assets/7e957b5a-9023-454a-8215-b1071ae3e740" />
+)
 
 ## Dashboard
 
