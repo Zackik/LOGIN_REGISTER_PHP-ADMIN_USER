@@ -158,7 +158,8 @@ Example:
 ```markdown
 ## Login
 
-![Login](images/login.png)
+![Login](<img width="668" height="457" alt="Screenshot From 2026-07-18 02-45-56" src="https://github.com/user-attachments/assets/c1bea2e6-4759-42ad-90a2-1e950ffba96e" />
+)
 
 ## Register
 
